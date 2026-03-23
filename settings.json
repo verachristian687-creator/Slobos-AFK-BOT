@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "anchorsmp.play.hosting",
-    "port": 29195,
+    "port": 48333,
     "version": "1.21.1"
   },
   "position": {
